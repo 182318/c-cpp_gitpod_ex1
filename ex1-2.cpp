@@ -2,4 +2,5 @@
 int main (void) {
      printf(" Hello Eve \n"); 
      printf(" My height is %d m %d cm \n",1,60);
+     printf(" What is your height? \n");
 }
